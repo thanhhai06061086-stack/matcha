@@ -1,0 +1,6 @@
+{
+  "name": "Midori Matcha - Nền Tảng Kinh Doanh & Trà Đạo Uji",
+  "description": "Nền tảng thương mại điện tử và giải pháp mô hình kinh doanh Matcha Nhật Bản: cung ứng nguyên liệu Uji, menu quán cafe, bảng tính ROI và nhượng quyền F&B.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
